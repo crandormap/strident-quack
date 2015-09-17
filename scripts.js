@@ -58,6 +58,7 @@ plants = {
 			spirit: { n: "Spirit tree", cycle: 320, stages: 11, xp: 19501.3, lvl: 83 },
 			calquat: { n: "Calquat tree", cycle: 160, stages: 8, xp: 19501.3, lvl: 72 },
 			elder: { n: "Elder tree", cycle: 320, stages: 14, xp: 23463, lvl: 90 }
+			morch: { n: "Morchella mushroom", cycle: 40, stages: 6, xp:0, lvl: 64 }
 		}
 	},
 	herb: {
@@ -151,7 +152,7 @@ plants = {
 			whiteb: { n: "Whiteberry", cycle: 20, stages: 8, xp: 0, lvl: 59 },
 			pivy: { n: "Poison ivy", cycle: 20, stages: 8, xp: 0, lvl: 70 },
 			barber: { n: "Barberry", cycle: 20, stages: 10, xp: 0, lvl: 77 },
-			wishwell: { n: "Wishing well", cycle: 20, stages: 10, xp: 0, lvl: 96 },
+			wishwell: { n: "Wishing well", cycle: 40, stages: 5, xp: 0, lvl: 96 },
 		}
 	}
 }
